@@ -15,6 +15,6 @@ To display just use in order traversal
 No user input for driver program.
 Hint: Inherit from binarytree (binarytree.zip) as a starting point.
 Use the BST ADT BinarySearchTree.h 
-Remember to upload all files before submitting.
+
 
 sortedtree.cpp
