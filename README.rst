@@ -4,6 +4,8 @@ The requirements for the lab:
 
 Name the program sortedtree.cpp. Make sure the following requirements are met. 
 
+Inplement the Binary Search Tree.
+
 Program must compile and run.
 Driver program should:
 insert 21 random numbers (1-100) on the tree
